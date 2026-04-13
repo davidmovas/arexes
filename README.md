@@ -2,6 +2,8 @@
 
 > Commercial classifieds platform for imported cars — a Go backend with a deep five-level catalog, a concurrent Go scraper with LLM-powered data structuring, and a Next.js frontend with proper grammatical-case handling for its target language.
 
+![Logo](showcases/icon.svg)
+
 ![Status](https://img.shields.io/badge/Status-Commercial%20Prototype-blue?style=flat-square)
 ![Go](https://img.shields.io/badge/Go-1.24-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Fiber](https://img.shields.io/badge/Fiber-v2-00ACD7?style=flat-square)
